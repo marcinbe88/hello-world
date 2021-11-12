@@ -1,11 +1,13 @@
 # hello-world
-place to store ideas and resources
-My name is Marcin. I'm 33 and I love doing sports and travel.
 
-# heading 1
+Place to store ideas and resources.
+
+My name is Marcin. I love doing sports and travel.
+
+# Small md practice:
 
 **bold** text
 
 *italic* text
 
-Visit my [website](www.gmail.com "website")
+Visit my [GitHub profile](https://github.com/marcinbe88 "website")
